@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil
 
-<!--
-**EduardoAguiar1C/EduardoAguiar1C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome é Eduardo Aguiar
 
-Here are some ideas to get you started:
+-Estou estudando Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compatilhamento dos meus projetos desenvolvidos
+
+Você entrar em contato comigo :
+
+00001115763994sp@al.educacao.sp.gov.br
+
+https://media1.tenor.com/m/YZS5zdHQMhAAAAAC/gif.gif
